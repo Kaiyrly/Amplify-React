@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "reactgraphql",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-11-01T01:50:53.300Z"
+}
