@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactstorage-dev-195704-authRole",
+      "UnauthRoleArn": "arn:aws:iam::594715320513:role/amplify-reactstorage-dev-195704-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::594715320513:role/amplify-reactstorage-dev-195704-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-reactstorage-dev-195704-deployment",
+      "UnauthRoleName": "amplify-reactstorage-dev-195704-unauthRole",
+      "StackName": "amplify-reactstorage-dev-195704",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:594715320513:stack/amplify-reactstorage-dev-195704/c3b2ce20-5dc1-11ed-a40c-02cc50e2784c",
+      "AmplifyAppId": "dc12wqp54hpsu"
+    },
+    "categories": {
+      "auth": {
+        "reactstorage41942a6f": {}
+      },
+      "function": {
+        "S3Triggera8ae4c2a": {
+          "deploymentBucketName": "amplify-reactstorage-dev-195704-deployment",
+          "s3Key": "amplify-builds/S3Triggera8ae4c2a-55793332614e2f6a7970-build.zip"
+        }
+      },
+      "storage": {
+        "s3db": {}
+      },
+      "api": {
+        "reactstorage": {}
+      }
+    }
+  }
+}
